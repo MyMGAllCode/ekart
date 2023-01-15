@@ -8,7 +8,7 @@
 # testing coverage will not push 
 /coverage
 
-# production
+# production, This is for production 
 /build
 
 # misc
